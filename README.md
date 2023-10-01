@@ -2,20 +2,19 @@
 > Repositório para realização da atividade proposta na disciplina **Desenvolvimento de Software Livre - GCC259**
 
 # Oii, sou a Jhennifer 😁
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-ennifer&layout=compact&langs_count=16&theme=onedark"/>
-</div>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-ennifer&layout=compact&langs_count=16&theme=onedark"/>
+
+![Foto de identificação](https://avatars.githubusercontent.com/u/66702089?s=400&u=7bda92de939a7686d90dae2d65576367d7ac2be1&v=4)
 
 <hr>
 
 ### Sobre mim
-<p> 
-  Tenho 22 anos e tive meu primeiro contato com programação aos 15, mas me encantei aos 17, desde então tenho procurado estudar e aprender mais sobre esse universo amplo e extraordinário. Meu foco é aprender mais sobre desenvolvimento web, especialmente front-end, mas estou apta para novas descobertas e experiências.
-</p>
+Tenho 22 anos e tive meu primeiro contato com programação aos 15, mas me encantei aos 17, desde então tenho procurado estudar e aprender mais sobre esse universo amplo e extraordinário. Meu foco é aprender mais sobre **desenvolvimento web**, especialmente front-end, mas estou apta para *novas descobertas* e experiências.
 
 ### Experiências profissionais:
 * **Estagiária na Technolog**
-  * Atuo como estagiária, como desenvolvedora front-end, na empresa Technolog desde fevereiro de 2022 até o presente momento  
+  * Atuo como estagiária, como *desenvolvedora front-end*, na empresa Technolog desde fevereiro de 2022 até o presente momento  
 
 <hr> 
 
